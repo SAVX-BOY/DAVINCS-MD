@@ -11,7 +11,7 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
+      "value":"✦",
       "required":true
     },
     "AUTO_READ_STATUS": {
@@ -53,7 +53,7 @@
     },
     "PM_PERMIT": {
       "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_STATUS_TEXT": {
@@ -78,7 +78,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -98,7 +98,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Allan@Davincs",
+      "value": "𝑺𝑨𝑽𝑨𝑮𝑬~𝑩✦𝑶✦𝒀",
       "required": false
     },
     "URL": {
@@ -113,12 +113,12 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "255793157892",
       "required": false
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "5",
+      "value": "3",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -133,7 +133,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTI_CALL": {
